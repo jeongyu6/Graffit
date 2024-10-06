@@ -1,5 +1,5 @@
-# Graffit
-Social Media Platform Development(C/C++)
+# Graffit: Social Media Platform Development(C/C++)
+
 
 After a prolonged period of social distancing, it's become increasingly vital for us to connect with one another through online media platforms. Social media sites like Facebook, Twitter, and Instagram provide various ways for users to engage with like-minded individuals. For this assignment, we will create a mock social media platform.
 
